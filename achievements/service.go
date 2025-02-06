@@ -7,9 +7,9 @@ import (
 
 	"base/core/emitter"
 	"base/core/logger"
-	"base/core/packages/gamification/models"
 	"base/core/storage"
 	"base/core/types"
+	"base/packages/gamification/models"
 
 	"gorm.io/gorm"
 )

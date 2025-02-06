@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"base/core/packages/gamification/models"
 	"base/core/storage"
+	"base/packages/gamification/models"
 
 	"github.com/gin-gonic/gin"
 )

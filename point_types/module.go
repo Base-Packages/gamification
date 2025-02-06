@@ -4,8 +4,8 @@ import (
 	"base/core/emitter"
 	"base/core/logger"
 	"base/core/module"
-	"base/core/packages/gamification/models"
 	"base/core/storage"
+	"base/packages/gamification/models"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
